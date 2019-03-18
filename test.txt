@@ -1,3 +1,0 @@
-test
-wangxb
-test success!
